@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   
 ###Connect with me:
   
-  [![linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/ceren-semiz-2482b7182/)
+  [![linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ceren-semiz-2482b7182/)
