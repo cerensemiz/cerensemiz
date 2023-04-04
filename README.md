@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cerensemiz&show_icons=true&theme=gotham" alt="cerensemiz" />
   
-  
-###Connect with me:
-  
-  [![linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ceren-semiz-2482b7182/)
+  Connect with me:
+
+      <a href="https://www.linkedin.com/in/ceren-semiz-2482b7182//"><img title="linkedin.com/in/cerensemiz" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
