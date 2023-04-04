@@ -27,5 +27,6 @@ Here are some ideas to get you started:
   ### Connect with me:
   <br/>
     <a href="https://www.linkedin.com/in/ceren-semiz-2482b7182/"><img title="linkedin.com/in/cerensemiz" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<br>
       ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cerensemiz&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
