@@ -16,12 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/ceren-semiz-2482b7182#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/ceren-semiz-2482b7182#gh-dark-mode-only)
+
+
 
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cerensemiz&show_icons=true&theme=gotham" alt="cerensemiz" />
-
+  
+  
+###Connect with me:
+  
+  [![linkedin Badge](https://img.shields.io/badge/-Linkedin-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/ceren-semiz-2482b7182/)
