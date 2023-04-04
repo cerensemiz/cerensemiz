@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/ceren-semiz-2482b7182/"><img title="linkedin.com/in/cerensemiz" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 
 ### Tech Stack
-![:NET](https://img.shields.io/badge/.NET-%230db7ed.svg?style=for-the-badge&logo=:NET&logoColor=white) ![CSharp](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white) ![REACT](https://img.shields.io/badge/reactjs-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23E34F26.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabiitMQ](https://img.shields.io/badge/RabbitMQ-%23E34F26.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) 
+![:NET](https://img.shields.io/badge/.NET-%230db7ed.svg?style=for-the-badge&logo=:NET&logoColor=white) ![CSharp](https://img.shields.io/badge/csharp-%23563D7C.svg?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/mysql-%23E34F26.svg?style=for-the-badge&logo=angular&logoColor=white) ![REACT](https://img.shields.io/badge/reactjs-%230db7ed.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
 
