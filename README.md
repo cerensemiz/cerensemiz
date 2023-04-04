@@ -1,4 +1,4 @@
-<div class="con" style:"text-aligen:center;" Hi there I'm Ceren 👋 ></div>
+ style:"text-aligen:center;" Hi there I'm Ceren 👋 
 
 <!--
 **cerensemiz/cerensemiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
