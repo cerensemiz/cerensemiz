@@ -1,4 +1,4 @@
-### Hi there I'm Ceren 👋 
+### Hi there, I'm Ceren Semiz 👋 
 
 <!--
 **cerensemiz/cerensemiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
